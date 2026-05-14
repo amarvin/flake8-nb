@@ -3,7 +3,7 @@ version: 2
 formats: all
 
 build:
-  image: latest
+  os: ubuntu-lts-latest
 
 python:
   version: 3.8
